@@ -39,7 +39,7 @@ For example:
 1. Basic game board
 2. Object generation (not random)
 
-### Clement
+### Yi Siang
 
 1. Feature 1
 
