@@ -41,13 +41,11 @@ For example:
 
 ### Clement
 
-1. *feature*
-2. *feature*
+1. Feature 1
 
 ### Han Wai
 
-1. *feature*
-2. *feature*
+1. Feature 2
 
 ## Problems Encountered & Solutions
 
