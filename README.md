@@ -32,5 +32,4 @@ Please provide the user manual on how to use your program.
 Please replace the following with your group members' names. 
 
 - Arief Aiman
-- Han Wai
 - Yi Siang
