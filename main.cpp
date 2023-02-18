@@ -2,10 +2,10 @@
 // Course: TCP1101 PROGRAMMING FUNDAMENTALS 
 // Year: Trimester 1, 2022/23 (T2215) 
 // Lab: T14L 
-// Names: Arief Aiman | Clement | Han Wai 
-// IDs: 1211312245 | 1211103039 | 1211101843 
-// Emails: 1211312245@student.mmu.edu.my | 1211103039@student.mmu.edu.my | 1211101843@student.mmu.edu.my 
-// Phones: 017-4137890 | 012-4829822 | 011-28216621 
+// Names: Arief Aiman | Clement
+// IDs: 1211312245 | 1211103039
+// Emails: 1211312245@student.mmu.edu.my | 1211103039@student.mmu.edu.my 
+// Phones: 017-4137890 | 012-4829822 
 // ********************************************************* 
 
 #include "pf/helper.h" // Currently non-functional
